@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 2,
+    "Passengers": [],
+    "FlightRoute": {
+      "Origin": "Paris",
+      "Destination": "London",
+      "Title": "Paris to London",
+      "BasePrice": 100.0,
+      "BaseCost": 50.0,
+      "LoyaltyPointsGained": 5,
+      "MinimumTakeOffPercentage": 0.7
+    },
+    "Plane": {
+      "Id": 124,
+      "Name": "Bombardier Q400",
+      "NumberOfSeats": 12
+    }
+  },
+  {
+    "Id": 3,
+    "Passengers": [],
+    "FlightRoute": {
+      "Origin": "Paris",
+      "Destination": "London",
+      "Title": "Paris to London",
+      "BasePrice": 100.0,
+      "BaseCost": 50.0,
+      "LoyaltyPointsGained": 5,
+      "MinimumTakeOffPercentage": 0.7
+    },
+    "Plane": {
+      "Id": 125,
+      "Name": "ATR 640",
+      "NumberOfSeats": 12
+    }
+  },
+  {
+    "Id": 1,
+    "Passengers": [
+
+    ],
+    "FlightRoute": {
+      "Origin": "London",
+      "Destination": "Paris",
+      "Title": "London to Paris",
+      "BasePrice": 100.0,
+      "BaseCost": 50.0,
+      "LoyaltyPointsGained": 5,
+      "MinimumTakeOffPercentage": 0.7
+    },
+    "Plane": {
+      "Id": 123,
+      "Name": "Antonov AN-2",
+      "NumberOfSeats": 12
+    }
+  }
+]

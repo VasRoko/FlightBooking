@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8SmJSGvM3g6jSGd7PsqqN3EVLALuOP2syJ3sG/ENQaF6NDSUHG45BExwl966mSp3TdJz+b5CmjpYL96ridzneQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\projects_personal\\FlightBookingProblem\\FlightBooking.Infrastructure\\FlightBooking.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vasro\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\vasro\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\vasro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\vasro\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\vasro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

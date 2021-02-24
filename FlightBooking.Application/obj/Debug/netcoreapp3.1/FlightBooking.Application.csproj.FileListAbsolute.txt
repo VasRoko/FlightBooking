@@ -1,0 +1,12 @@
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\bin\Debug\netcoreapp3.1\FlightBooking.Domain.dll
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\obj\Debug\netcoreapp3.1\FlightBooking.Application.csprojAssemblyReference.cache
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\obj\Debug\netcoreapp3.1\FlightBooking.Application.AssemblyInfoInputs.cache
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\obj\Debug\netcoreapp3.1\FlightBooking.Application.AssemblyInfo.cs
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\bin\Debug\netcoreapp3.1\FlightBooking.Application.deps.json
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\bin\Debug\netcoreapp3.1\FlightBooking.Application.dll
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\bin\Debug\netcoreapp3.1\FlightBooking.Application.pdb
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\bin\Debug\netcoreapp3.1\FlightBooking.Domain.pdb
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\obj\Debug\netcoreapp3.1\FlightBooking.Application.csproj.CoreCompileInputs.cache
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\obj\Debug\netcoreapp3.1\FlightBooking.Application.csproj.CopyComplete
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\obj\Debug\netcoreapp3.1\FlightBooking.Application.dll
+D:\Projects\projects_personal\FlightBookingProblem\FlightBooking.Application\obj\Debug\netcoreapp3.1\FlightBooking.Application.pdb

@@ -1,0 +1,64 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\vasro\AppData\Local\Temp\JetBrains\ReSharperPlatformVs16\vAny_8c689d8e\CoverageData\_FlightBooking.Console.1883210457\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=53662493_002D39c9_002D4b24_002D8ccd_002D8a12a565bc51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_Invoke_ScheduleFlight_GivenValidFlight" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.FlightRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=785261df_002D511a_002D460d_002D96bb_002D9f33343a4e23/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FileManagerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.FileManagerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.StreamTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.CommandTests.ExitCommandTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.CommandTests.AddAirlineCommandTests.InvokeResult_ShuouldBeValidResponse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.CommandTests.AddAirlineCommandTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.CommandTests.AddDiscountedCommandTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.FlightRepositoryTests.Should_Invoke_UpdateFlightAsync&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=88ac5df1_002Dc90f_002D48d8_002Dbae2_002Dce2276f282b0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="StreamTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.Tests.StreamTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.Tests.FileManagerTests.Should_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.Tests.FileManagerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.FlightsTests.CreateAirlineCommandHandlerTests.CreateAirlineCommandHandler_Should_ChatchThrownAnyExeception&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.FlightsTests.CreateAirlineCommandHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.FileManagerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.StreamTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.FlightRepositoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.DependencyConfigTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.FlightsTests.CreateDiscountedCommandHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.FlightsTests.CreateGeneralCommandHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.FlightsTests.CreateLoyaltyCommandHandlerHandler.CreateGeneralCommandHandler_Should_ChatchThrownAnyExeception&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.FlightsTests.CreateLoyaltyCommandHandlerHandler.CreateGeneralCommandHandler_Should_HandleGivenValidRequest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.FlightsTests.CreateLoyaltyCommandHandlerHandler.CreateLoyaltyCommandHandler_Should_HandleGivenValidRequest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.FlightsTests.CreateFlightCommandHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.StartupTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.CommandTests.ExitCommandTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.CommandTests.AddGeneralCommandTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.CommandTests.PrintSummaryCommandTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.CommandTests.AddLoyaltyCommandTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.CommandHandlerTests.Should_InvokeAddAirlineCommand&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.CommandHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.MainTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.BussinesRuleHandlerTests.Should_EvaluateIBussinesRule_GivedValidConditions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.BussinesRuleHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA357933-830C-469A-9892-3FAE25EE85A5::.NETCoreApp,Version=v3.1::FlightBooking.Console.UnitTests.ProgramTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.FlightsTests.GetSummaryQueryHandlerTests.CreateAirlineCommandHandler_Should_ChatchThrownAnyExeception&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5A7D4F7-4BEC-481D-9DF0-512B036D516B::.NETCoreApp,Version=v3.1::FlightBooking.Application.Tests.FlightsTests.GetSummaryQueryHandlerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=de77c21a_002D176c_002D4d48_002D9033_002D1a7a385455e4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StreamTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.DependencyConfigTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.FileManagerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.StreamTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.FlightRepositoryTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.UnitTests.FlightRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e6fea850_002De4fc_002D4e6b_002Db809_002D0a66128a7fde/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StreamTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::02EE72CC-086C-4C4F-BDF2-828533B5146C::.NETCoreApp,Version=v3.1::FlightBooking.Infrastructure.Tests.StreamTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
